@@ -8238,7 +8238,7 @@ div.cs-select span {
 }
 
 #featured-hotel {
-  background: url(/images/2565680.jpg) no-repeat center ;
+  background: url(../images/2565680.jpg) no-repeat center ;
   height: 155vh;
   float: left;
   background-attachment: fixed;
@@ -8432,7 +8432,7 @@ div.cs-select span {
 }
 
 #hotel-facilities {
-  background: url(/images/2565691.jpg) no-repeat center;
+  background: url(../images/2565691.jpg) no-repeat center;
   float: left;
   background-attachment: fixed;
   height: 190vh;
@@ -8645,7 +8645,7 @@ div.cs-select span {
 
 
 #testimonial {
-  background: url(/images/bg1.jpg) no-repeat center;
+  background: url(../images/bg1.jpg) no-repeat center;
   float: right;
   height: 90vh;
   width: 200vh;
